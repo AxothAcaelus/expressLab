@@ -1,0 +1,28 @@
+{
+  "author": "Stetson Wood",
+  "name": "expresslab.stetsonwood",
+  "description": "",
+  "version": "0.0.1",
+  "main": "server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AxothAcaelus/expresslab.git"
+  },
+  "keywords": [
+    "Comments",
+    "MongoDB",
+    "Weather",
+    "https"
+  ],
+  "dependiencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "mongodb": "^1.4.2",
+    "mongoose": "^3.8.8"
+  }
+}
